@@ -1,0 +1,17 @@
+{
+    "name": "vishal271998/contactform",
+    "description": "contact form",
+    "require": {},
+    "extra": {
+        "laravel": {
+            "providers": [
+              "Vishal\\CrudGenerator\\CrudGeneratorServiceProvider"
+            ]
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Vishal\\CrudGenerator\\": "src/"
+        }
+    }
+}
