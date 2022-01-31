@@ -1,6 +1,7 @@
 {
     "name": "vishal271998/crud-generator",
     "description": "contact form",
+    "license": "MIT",
     "require": {},
     "extra": {
         "laravel": {
