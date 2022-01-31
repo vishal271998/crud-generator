@@ -13,7 +13,5 @@
         "psr-4": {
             "Vishal\\CrudGenerator\\": "src/"
         }
-    },
-    "minimum-stability": "stable",
-    "prefer-stable": true
+    }
 }
