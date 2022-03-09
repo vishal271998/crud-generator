@@ -1,9 +1,9 @@
 <?php
 
-namespace Vishal\CrudGenerator;
+namespace CrudGenerator;
 use Illuminate\Support\ServiceProvider;
 
-use Vishal\CrudGenerator\Commands\CrudGenerator;
+use CrudGenerator\Commands\CrudGenerator;
 
 class CrudGeneratorServiceProvider extends ServiceProvider
 {

@@ -6,5 +6,5 @@ $vendorDir = dirname(dirname(__FILE__));
 $baseDir = dirname($vendorDir);
 
 return array(
-    'Vishal\\CrudGenerator\\' => array($baseDir . '/src'),
+    'CrudGenerator\\' => array($baseDir . '/src'),
 );
