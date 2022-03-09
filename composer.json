@@ -1,8 +1,6 @@
 {
     "name": "vishal271998/crud-generator",
     "description": "contact form",
-    "license": "MIT",
-    "require": {},
     "extra": {
         "laravel": {
             "providers": [
@@ -14,7 +12,5 @@
         "psr-4": {
             "CrudGenerator\\": "src/"
         }
-    },
-    "minimum-stability": "stable",
-    "prefer-stable": true
+    }
 }
